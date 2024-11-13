@@ -50,10 +50,6 @@
 </br>
 </br>
 <h2>⚡ My GitHub Statistics</h2>
-<div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vrivas99&show_icons=true&hide_border=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vrivas99&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</div>
 <!--
 **Vrivas99/Vrivas99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
