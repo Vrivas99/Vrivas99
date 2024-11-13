@@ -4,8 +4,9 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://portfolio-opal-psi-18.vercel.app/)
 
 <h2>about me</h2>
+<!-- <img align="right" width="400" alt="Shimarin" src="https://i.imgur.com/aNBi8Jf.png"/> -->
 
-<img align="right" width="400" alt="Shimarin" src="https://i.imgur.com/aNBi8Jf.png"/>
+<img align="right" width="400" alt="dragon" src="https://i.pinimg.com/originals/5f/29/30/5f293030b863a0c6f927959f7c57d3bc.jpg"/>
 
 - 💻 Frontend & some Backend developer 
 - 🌱 Software engineer student
